@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295261736395",
+    "firebase_url": "https://test-ggvision.firebaseio.com",
+    "project_id": "test-ggvision",
+    "storage_bucket": "test-ggvision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295261736395:android:7eabc16c144b84a6cdba4e",
+        "android_client_info": {
+          "package_name": "chaienoto.nata.recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295261736395-94d50m9tso622n52f2ldpcugmvurjae3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chaienoto.nata.recognition",
+            "certificate_hash": "003d01b6ab4c372a84f04a524eaa060390549ddf"
+          }
+        },
+        {
+          "client_id": "295261736395-6ju29brqmqjcfirfrcpuqk8vk6oqf80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCbrBBsX1svF07g9gliyxRH9_ufxn6Pis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295261736395-6ju29brqmqjcfirfrcpuqk8vk6oqf80i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
